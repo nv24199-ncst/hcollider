@@ -1,0 +1,3 @@
+# HashCollider has no third-party runtime dependencies.
+# Everything is implemented with the Python 3.10+ standard library
+# (hashlib, secrets, argparse, dataclasses, pathlib, json, time).
